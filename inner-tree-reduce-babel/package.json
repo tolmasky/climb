@@ -1,6 +1,6 @@
 {
   "name": "@climb/inner-tree-reduce-babel",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "",
   "main": "inner-tree-reduce-babel.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Francisco Ryan Tolmasky I",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "@climb/inner-tree-reduce": "1.0.0-alpha.1"
+  }
 }
