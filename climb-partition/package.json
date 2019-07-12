@@ -1,8 +1,8 @@
 {
-  "name": "@climb/map-accum",
-  "version": "1.0.0-alpha.2",
+  "name": "@climb/partition",
+  "version": "1.0.0",
   "description": "",
-  "main": "map-accum.js",
+  "main": "partition.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
