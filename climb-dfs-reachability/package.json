@@ -1,8 +1,8 @@
 {
-  "name": "@climb/partition",
-  "version": "1.0.0-alpha.3",
+  "name": "@climb/dfs-reachability",
+  "version": "1.0.0",
   "description": "",
-  "main": "partition.js",
+  "main": "dfs-reachability.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
