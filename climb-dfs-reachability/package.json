@@ -1,6 +1,6 @@
 {
   "name": "@climb/dfs-reachability",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.4",
   "description": "",
   "main": "dfs-reachability.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "@climb/unfold",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.4",
   "description": "",
   "main": "./unfold.js",
   "scripts": {
