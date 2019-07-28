@@ -1,6 +1,6 @@
 {
   "name": "@climb/from-entries",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.5",
   "description": "",
   "main": "./from-entries.js",
   "scripts": {
