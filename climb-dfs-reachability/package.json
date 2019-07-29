@@ -1,6 +1,6 @@
 {
   "name": "@climb/dfs-reachability",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "description": "",
   "main": "dfs-reachability.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "Francisco Ryan Tolmasky I",
   "license": "MIT",
   "peerDependencies": {
-    "@algebraic/dense-int-set": "1.0.0-alpha.19"
+    "@algebraic/dense-int-set": "1.0.0-alpha.20"
   }
 }

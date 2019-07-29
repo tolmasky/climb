@@ -1,6 +1,6 @@
 {
   "name": "@climb/map-accum",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "description": "",
   "main": "map-accum.js",
   "scripts": {
