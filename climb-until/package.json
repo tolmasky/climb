@@ -1,11 +1,8 @@
 {
   "name": "@climb/until",
-  "version": "1.0.0-alpha.5",
+  "version": "1.0.0-alpha.6",
   "description": "",
   "main": "until.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "Francisco Ryan Tolmasky I",
   "license": "MIT"
