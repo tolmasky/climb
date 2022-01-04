@@ -1,0 +1,9 @@
+{
+  "name": "@climb/pipe",
+  "version": "1.0.0-alpha.6",
+  "description": "",
+  "main": "pipe.js",
+  "keywords": [],
+  "author": "Francisco Ryan Tolmasky I",
+  "license": "MIT"
+}
