@@ -1,6 +1,6 @@
 {
   "name": "@climb/flat-map",
-  "version": "1.0.0-alpha.7",
+  "version": "1.0.0-alpha.8",
   "description": "",
   "main": "./flat-map.js",
   "keywords": [],

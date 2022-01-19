@@ -1,12 +1,12 @@
 {
   "name": "@climb/update",
-  "version": "1.0.0-alpha.7",
+  "version": "1.0.0-alpha.8",
   "description": "",
   "main": "./update.js",
   "keywords": [],
   "author": "Francisco Ryan Tolmasky I",
   "license": "MIT",
   "peerDependencies": {
-    "@climb/map-accum": "1.0.0-alpha.7"
+    "@climb/map-accum": "1.0.0-alpha.8"
   }
 }
